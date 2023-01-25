@@ -1,0 +1,9 @@
+.name-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.name-text {
+    margin-left: 5px;
+}
